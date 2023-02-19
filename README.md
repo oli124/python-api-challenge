@@ -16,9 +16,10 @@ The weather variables included in the analysis are:
 3. Cloudiness
 4. Wind Speed
 
-Each of the above weather variables will be modelled against latitude and two plots
-will be displayed for each weather variable - one for Northern Hemisphere data and one
-for Southern Hemisphere data.
+Each of the above weather variables will be modelled against latitude and plots
+will be displayed for each weather variable. Following this, two plots for each
+weather variable will be created - one for Northern Hemisphere data and one for 
+Southern Hemisphere data.
 
 PART 2
 Analysis found in: VacationPy.py
